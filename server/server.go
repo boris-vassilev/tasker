@@ -10,8 +10,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/heppu/go-template/api"
-	"github.com/heppu/go-template/app"
+	"github.com/boris-vassilev/tasker/api"
+	"github.com/boris-vassilev/tasker/app"
 )
 
 //go:embed openapi.yaml
